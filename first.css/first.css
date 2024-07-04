@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title><h1> My travel blog</h1></title>
+    <style>
+        .more{text-align: right;}
+    
+    
+    
+    #off{color: chartreuse;}
+    ol{background-color: blue} </style>
+
+</head>
+<!-- first comment -->
+<h1>Discovering  the Beauty of Hidden Gems: My Travel Blog</h1>
+<body>
+    
+    <p>
+    <h3 style="color: firebrick;">Welcome to <b>My Travel Blog!</b> Here, we embark on a <i>journey to uncover the world's most breathtaking destinations, unique cultures, and unforgettable experiences. Whether you're a seasoned traveler or just starting to explore, our blog is your ultimate </i>guide to discovering the beauty of hidden gems around the globe.
+        <button class=".more">Read more </button>
+    </h3>
+</p>
+<br>
+<br>
+<div><br><p>
+    <h5 id="off">Exploring Off-the-Beaten-Path Destinations</h5>
+    <br>
+    <h3>
+    
+            <ol>1. Chefchaouen, Morocco</ol>
+            <ol>2. Hallstatt, Austria</ol>
+            <ol>3. Hoi An, Vietnam</ol>
+   
+    </h3>
+</p></div>
+<br>
+<span>
+    <p><h5>
+    And my favorite food
+
+</h5></p>
+<br>
+<p>
+    <h4>
+        <ul>tea or </ul>
+        <ul>coffee</ul>
+        <ul>pizza</ul>
+    </h4>
+</p>
+</span>
+<p>
+   <h5>Explore photo</h5>
+  <img src="fb.png"content="width=500px", content="hight=500px" alt="facebook">
+
+</p>
+<form>
+    <input type="text" value="name">
+    <h6>for more information </h6>
+    <a href="https://www.youtube.com/"target=__blank> youtube</a>
+</form>
+
+
+
+    
+</body>
+</html>
+
+
